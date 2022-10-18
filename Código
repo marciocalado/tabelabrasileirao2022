@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang = pt-br>
+<head>
+<title>  Tabela Brasileirão </title>
+<meta charset = "utf-8">
+<style>
+
+  body {
+    background-image: url('imagens/torcida.jpg');
+    background-size: cover;
+  }
+</style>
+
+</head>
+<body>
+
+<h1 style="font-size:30px; text-align:center; color:rgb(255, 255, 255); background-color:ForestGreen;"><img src="img/brasil.png"  style="width:38px;height:38px;"> BRASILEIRÃO 2022<img src="img/brasil.png"  style="width:38px;height:38px;"> </h1>
+
+    <table align="center" style="width:80%;>
+       <!--titulos-->
+        <tr>
+          <th>Colocação</th>
+          <th>Escudo</th>
+          <th>Times</th>
+          <th>Pontos</th>
+          <th>Partidas</th>
+          <th>Vitórias</th>
+          <th>Empates</th>
+          <th>Derrotas</th>
+          <th>Gols Pró</th>
+          <th>Gols Contra</th>
+          <th>Últimos 5</th>
+          <th>Saldo de gols</th>
+
+        </tr>
+        <tr style="background-color: lightblue;>
+         <!--Linha do Palmeiras-->
+       
+          <td>1°</td>
+          <td><img src="img/palmeiras.png" alt="Escudo do Palmeiras"  style="width:30px;height:30px;"></td>
+          <td>Palmeiras</td>
+          <td>60</td>
+          <td>28</td>
+          <td>17</td>
+          <td>9</td>
+          <td>2</td>
+          <td>45</td>
+          <td>19</td>
+          <td>26</td>
+          <td>
+            <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            <img src="img/empate.svg"  style="width:30px;height:30px;">
+            <img src="img/empate.svg"  style="width:30px;height:30px;">
+
+        </tr>
+
+        <tr style="background-color: lightblue;">
+        <!--linha do Fluminense-->
+        <td>2°</td>
+        <td><img src="img/fluminense.png" alt="Escudo do fluminense"  style="width:30px;height:30px;"></td>
+        <td>Fluminense</td>
+        <td>51</td>
+        <td>28</td>
+        <td>15</td>
+        <td>6</td>
+        <td>7</td>
+        <td>46</td>
+        <td>31</td>
+        <td>15</td>
+        <td>
+            <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            <img src="img/empate.svg"  style="width:30px;height:30px;"></td>
+        </tr>
+        <!--Internacional-->
+        <tr style="background-color: lightblue;">
+            <td>3°</td>
+            <td><img src="img/internacional.png" alt="Escudo do internacional"  style="width:30px;height:30px;"></td>
+            <td>internacional</td>
+            <td>50</td>
+            <td>28</td>
+            <td>15</td>
+            <td>6</td>
+            <td>7</td>
+            <td>46</td>
+            <td>31</td>
+            <td>14</td>
+            <td>
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+  
+          </tr>
+       <!--corinthias -->      
+          <tr style="background-color: lightblue;">
+            <td>4°</td>
+            <td><img src="img/corinthians.png" alt="Escudo do corinthians"  style="width:30px;height:30px;"></td>
+            <td>Corinthians</td>
+            <td>47</td>
+            <td>28</td>
+            <td>13</td>
+            <td>8</td>
+            <td>7</td>
+            <td>32</td>
+            <td>27</td>
+            <td>5</td>
+            <td>
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+       <!--flamengo-->
+          <tr style="background-color: tomato;">
+            <td>5°</td>
+            <td><img src="img/flamengo.png" alt="Escudo do flamengo"  style="width:30px;height:30px;"></td>
+            <td>Flamengo</td>
+            <td>45</td>
+            <td>28</td>
+            <td>13</td>
+            <td>6</td>
+            <td>9</td>
+            <td>44</td>
+            <td>27</td>
+            <td>17</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--atlético-PR-->
+          <tr style="background-color: tomato;">
+            <td>6°</td>
+            <td><img src="img/athletico-PR.png" alt="Escudo do athletico-PR"  style="width:30px;height:30px;"></td>
+            <td>Athletico-PR</td>
+            <td>44</td>
+            <td>28</td>
+            <td>12</td>
+            <td>8</td>
+            <td>8</td>
+            <td>33</td>
+            <td>33</td>
+            <td>0</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+            </td>
+          </tr>
+          <!--atlético-MG-->
+          <tr style="background-color: lightgreen;">
+            <td>7°</td>
+            <td><img src="img/atletico-MG.png" alt="Escudo do atletico-MG"  style="width:30px;height:30px;"></td>
+            <td>Atletico-MG</td>
+            <td>40</td>
+            <td>28</td>
+            <td>10</td>
+            <td>10</td>
+            <td>8</td>
+            <td>34</td>
+            <td>31</td>
+            <td>3</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+            </td>
+          </tr>
+          <!--América-MG-->
+          <tr style="background-color: lightgreen;">
+            <td>8°</td>
+            <td><img src="img/america-MG.png" alt="Escudo do América-MG"  style="width:30px;height:30px;"></td>
+            <td>América-MG</td>
+            <td>39</td>
+            <td>28</td>
+            <td>11</td>
+            <td>6</td>
+            <td>11</td>
+            <td>24</td>
+            <td>27</td>
+            <td>-3</td>
+            <td>
+                <img src="img/derrota.svg"  style="width:30px;height:30px;">
+                <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+                <img src="img/empate.svg"  style="width:30px;height:30px;">
+                <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+                <img src="img/empate.svg"  style="width:30px;height:30px;">
+            </td>
+          </tr>
+          <!--botafogo-->
+          <tr style="background-color: lightgreen;">
+            <td>9°</td>
+            <td><img src="img/botafogo.png" alt="Escudo do botafogo"  style="width:30px;height:30px;"></td>
+            <td>botafogo</td>
+            <td>37</td>
+            <td>28</td>
+            <td>10</td>
+            <td>7</td>
+            <td>11</td>
+            <td>28</td>
+            <td>30</td>
+            <td>-2</td>
+            <td>
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            </td>
+          </tr>
+          <!--santos-->
+          <tr style="background-color: lightgreen;">
+            <td>10°</td>
+            <td><img src="img/santos.png" alt="Escudo do Santos"  style="width:30px;height:30px;"></td>
+            <td>Santos</td>
+            <td>37</td>
+            <td>28</td>
+            <td>9</td>
+            <td>10</td>
+            <td>9</td>
+            <td>31</td>
+            <td>25</td>
+            <td>6</td>
+            <td>
+              
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+            </td> 
+          </tr>
+          <!--goiás-->
+          <tr style="background-color: lightgreen;">
+            <td>11°</td>
+            <td><img src="img/goias.png" alt="Escudo do Goiás"  style="width:30px;height:30px;"></td>
+            <td>Goiás</td>
+            <td>37</td>
+            <td>28</td>
+            <td>9</td>
+            <td>10</td>
+            <td>9</td>
+            <td>30</td>
+            <td>34</td>
+            <td>-4</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            </td>
+          </tr>
+          <!--são paulo-->
+          <tr>
+            <td>12°</td>
+            <td><img src="img/saoPaulo.png" alt="Escudo do São Paulo"  style="width:30px;height:30px;"></td>
+            <td>São Paulo</td>
+            <td>37</td>
+            <td>28</td>
+            <td>8</td>
+            <td>13</td>
+            <td>7</td>
+            <td>39</td>
+            <td>31</td>
+            <td>8</td>
+            <td>
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--bragantino-->
+          <tr>
+            <td>13°</td>
+            <td><img src="img/bragantino.png" alt="Escudo do Bragantino"  style="width:30px;height:30px;"></td>
+            <td>Bragantino</td>
+            <td>35</td>
+            <td>28</td>
+            <td>8</td>
+            <td>11</td>
+            <td>9</td>
+            <td>37</td>
+            <td>34</td>
+            <td>3</td>
+            <td>
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+           <!--fortaleza-->
+            <td>14°</td>
+            <td><img src="img/fortaleza.png" alt="Escudo do fortaleza"  style="width:30px;height:30px;"></td>
+            <td>fortaleza</td>
+            <td>34</td>
+            <td>28</td>
+            <td>9</td>
+            <td>7</td>
+            <td>12</td>
+            <td>28</td>
+            <td>31</td>
+            <td>-3</td>
+            <td>
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            </td>
+          </tr>
+
+          <!--coritiba-->
+          <tr>
+            <td>15°</td>
+            <td><img src="img/coritiba.png" alt="Escudo do coritiba"  style="width:30px;height:30px;"></td>
+            <td>Coritiba</td>
+            <td>31</td>
+            <td>28</td>
+            <td>9</td>
+            <td>4</td>
+            <td>15</td>
+            <td>29</td>
+            <td>43</td>
+            <td>-14</td>
+            <td>
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--ceara-->
+          <tr>
+            <td>16°</td>
+            <td><img src="img/ceara.png" alt="Escudo do ceara"  style="width:30px;height:30px;"></td>
+            <td>Ceará</td>
+            <td>31</td>
+            <td>28</td>
+            <td>6</td>
+            <td>13</td>
+            <td>9</td>
+            <td>26</td>
+            <td>29</td>
+            <td>-3</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--Cuiabá-->
+          <tr style="background-color: red;">
+            <td>17°</td>
+            <td><img src="img/cuiaba.png" alt="Escudo do cuiaba"  style="width:30px;height:30px;"></td>
+            <td>Cuiabá</td>
+            <td>30</td>
+            <td>28</td>
+            <td>7</td>
+            <td>9</td>
+            <td>12</td>
+            <td>21</td>
+            <td>28</td>
+            <td>-7</td>
+            <td>
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--avai-->
+          <tr style="background-color: red;">
+            <td>18°</td>
+            <td><img src="img/avai.png" alt="Escudo do avai"  style="width:30px;height:30px;"></td>
+            <td>Avaí</td>
+            <td>28</td>
+            <td>28</td>
+            <td>7</td>
+            <td>7</td>
+            <td>14</td>
+            <td>26</td>
+            <td>43</td>
+            <td>-17</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/vitoria.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--Atlético-GO-->
+          <tr style="background-color: red;">
+            <td>19°</td>
+            <td><img src="img/atletico-GO.png" alt="Escudo do atletico-GO"  style="width:30px;height:30px;"></td>
+            <td>Atletico-GO</td>
+            <td>22</td>
+            <td>28</td>
+            <td>5</td>
+            <td>7</td>
+            <td>16</td>
+            <td>25</td>
+            <td>44</td>
+            <td>-19</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            </td>
+  
+          </tr>
+          <!--juventude-->
+          <tr style="background-color: red;">
+            <td>20°</td>
+            <td><img src="img/juventude.png" alt="Escudo do juventude"  style="width:30px;height:30px;"></td>
+            <td>Juventude</td>
+            <td>19</td>
+            <td>28</td>
+            <td>3</td>
+            <td>10</td>
+            <td>15</td>
+            <td>21</td>
+            <td>49</td>
+            <td>-28</td>
+            <td>
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+              <img src="img/empate.svg"  style="width:30px;height:30px;">
+              <img src="img/derrota.svg"  style="width:30px;height:30px;">
+            </td>
+      </table>
+
+
+</body>
+
+</html>
